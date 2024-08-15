@@ -1,0 +1,11 @@
+id,first_name,last_name,email,age,city
+1,Chris,Perez,chris.perez@example.com,24,Atlanta
+2,Karen,Nguyen,karen.nguyen@example.com,33,San Francisco
+3,Patrick,Harris,patrick.harris@example.com,27,Las Vegas
+4,Olivia,Young,olivia.young@example.com,30,Charlotte
+5,Henry,King,henry.king@example.com,35,Detroit
+6,Linda,Scott,linda.scott@example.com,29,Memphis
+7,Victor,Adams,victor.adams@example.com,31,Baltimore
+8,Rachel,Evans,rachel.evans@example.com,26,Portland
+9,Ethan,Mitchell,ethan.mitchell@example.com,32,El Paso
+10,Megan,White,megan.white@example.com,28,Louisville

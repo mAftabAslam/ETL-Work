@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "email": "alice.johnson@example.com",
+        "age": 25,
+        "city": "Miami"
+    },
+    {
+        "id": 2,
+        "first_name": "Bob",
+        "last_name": "Williams",
+        "email": "bob.williams@example.com",
+        "age": 34,
+        "city": "Seattle"
+    },
+    {
+        "id": 3,
+        "first_name": "Charlie",
+        "last_name": "Martinez",
+        "email": "charlie.martinez@example.com",
+        "age": 28,
+        "city": "Denver"
+    },
+    {
+        "id": 4,
+        "first_name": "Diana",
+        "last_name": "Robinson",
+        "email": "diana.robinson@example.com",
+        "age": 30,
+        "city": "Boston"
+    },
+    {
+        "id": 5,
+        "first_name": "Evan",
+        "last_name": "Clark",
+        "email": "evan.clark@example.com",
+        "age": 27,
+        "city": "Austin"
+    },
+    {
+        "id": 6,
+        "first_name": "Fiona",
+        "last_name": "Rodriguez",
+        "email": "fiona.rodriguez@example.com",
+        "age": 23,
+        "city": "San Francisco"
+    },
+    {
+        "id": 7,
+        "first_name": "George",
+        "last_name": "Lewis",
+        "email": "george.lewis@example.com",
+        "age": 29,
+        "city": "Washington"
+    },
+    {
+        "id": 8,
+        "first_name": "Hannah",
+        "last_name": "Walker",
+        "email": "hannah.walker@example.com",
+        "age": 26,
+        "city": "Columbus"
+    },
+    {
+        "id": 9,
+        "first_name": "Ian",
+        "last_name": "Hall",
+        "email": "ian.hall@example.com",
+        "age": 32,
+        "city": "Indianapolis"
+    },
+    {
+        "id": 10,
+        "first_name": "Julia",
+        "last_name": "Allen",
+        "email": "julia.allen@example.com",
+        "age": 31,
+        "city": "Fort Worth"
+    }
+]
